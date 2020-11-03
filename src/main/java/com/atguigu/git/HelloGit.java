@@ -10,6 +10,11 @@ public class HelloGit {
 		System.out.println("master分支");
 		System.out.println("dev分支");
 		System.out.println("第二次提交之前的更新");
+		System.out.println("赂眉脨脗t");
+		System.out.println("麓麓陆篓路脰脰搂");
+		System.out.println("master路脰脰搂");
+		System.out.println("dev路脰脰搂");
+		System.out.println("dev路脰脰搂123123");
 		
 	}
 
